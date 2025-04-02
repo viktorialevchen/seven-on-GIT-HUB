@@ -1,0 +1,90 @@
+
+.col-12{
+    background-color:rgb(220, 206, 206);
+    height: 17rem;
+    display: flex;
+    gap: 10px;
+}
+.col-4{
+    background-color: black;
+    height: 17rem;
+    background-image: url(https://st2.depositphotos.com/5845718/11934/i/450/depositphotos_119345144-stock-photo-rays-sunrise-with-green-plant.jpg);
+}
+.col-8{
+    background-color: black;
+    height: 17rem;
+    margin-left: 10px;
+}
+.p2{
+    margin-left: 4rem;
+    color: azure
+    ;
+}
+.p{
+    margin-left: 4rem;
+    margin-top: 3rem;  
+    color: azure;
+}
+.col-9{
+    background-color: red;
+    height: 10rem;
+    margin-left: 3rem;
+    margin-top: 1rem;
+}
+.img8{
+    height:17rem;
+    width: 32rem;
+   
+}
+.col-10{
+    background-color: red;
+    height: 2rem;
+    margin-top: 2rem;
+    margin-left: 3rem;
+}
+.col-13{
+    background-color: red;
+    height: 8rem;
+    display: flex;
+    gap: 10px;
+}
+.img{
+    height: 7.3rem;
+    width: 23rem;
+}
+.img2{
+    height: 7.3rem;
+    width: 20rem;
+}
+.img3{
+    height: 7.3rem;
+    width: 19.5rem; 
+}
+.img4{
+    height: 7.2rem;
+    width: 23rem; 
+}
+.img5{
+    height: 7.2rem;
+    width: 20rem;
+}
+.img6{
+    height: 7.2rem;
+    width: 19.5rem;
+}
+
+.col-14{
+    margin-top: 1rem;
+    background-color: red;
+    height: 7rem;
+    display: flex;
+    gap: 10px;
+}
+.col-sm{
+    background-color: greenyellow;
+    height: 7.3rem;
+}
+
+
+
+
